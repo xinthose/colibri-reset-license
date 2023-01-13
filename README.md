@@ -1,6 +1,6 @@
 # colibri-reset-license
 
-## To reset your Colibri License in a WordPress Website please follow these steps
+## To reset or change your Colibri License in a WordPress Website please follow these steps
 
 1. Download or checkout this repository
 2. ZIP the folder `colibri-reset-license`
